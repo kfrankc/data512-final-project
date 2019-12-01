@@ -1,0 +1,101 @@
+,Song,Performer,no. 1 Streak,Year,Popularity,Weeks before no. 1
+0,Mack The Knife,Bobby Darin (1960),9,1960,0.35,7
+1,"The Theme From ""A Summer Place""",Percy Faith And His Orchestra (1960),9,1960,0.43,7
+2,Tossin' And Turnin',Bobby Lewis (1961),7,1961,0.3,12
+3,I Want To Hold Your Hand,The Beatles (1964),7,1964,0.47,3
+4,I Heard It Through The Grapevine,Gladys Knight And The Pips (1968),7,1968,0.41,4
+5,Hey Jude,The Beatles (1969),9,1969,0.47,3
+6,Venus,Frankie Avalon (1976),7,1976,0.25,5
+7,Tonight's The Night (Gonna Be Alright),Rod Stewart (1977),8,1977,0.35,7
+8,Shadow Dancing,Andy Gibb (1978),7,1978,0.28,10
+9,Night Fever,Bee Gees (1978),8,1978,0.4,7
+10,You Light Up My Life,Debby Boone (1978),10,1978,0.4,7
+11,Bette Davis Eyes,Kim Carnes (1981),9,1981,0.35,8
+12,I Love Rock 'N Roll,Joan Jett & the Blackhearts (1982),7,1982,0.35,7
+13,Ebony And Ivory,Paul McCartney And Stevie Wonder (1982),7,1982,0.37,6
+14,Physical,Olivia Newton-John (1982),10,1982,0.38,8
+15,Endless Love,Diana Ross & Lionel Richie (1982),9,1982,0.33,6
+16,Every Breath You Take,The Police (1983),8,1983,0.36,6
+17,Jump,Van Halen (1984),13,1984,0.62,4
+18,(Everything I Do) I Do It For You,Bryan Adams (1991),7,1991,0.32,5
+19,I'll Be There,The Escape Club (1991),7,1991,0.28,4
+20,Black Or White,Michael Jackson (1992),7,1992,0.35,3
+21,"Can't Help Falling In Love (From ""Sliver"")",UB40 (1993),7,1993,0.24,11
+22,Informer,Snow (1993),7,1993,0.28,10
+23,"End Of The Road (From ""Boomerang"")",Boyz II Men (1993),13,1993,0.41,5
+24,That's The Way Love Goes,Janet Jackson (1993),8,1993,0.35,3
+25,I Swear,All-4-One (1994),11,1994,0.37,5
+26,Dreamlover,Mariah Carey (1994),8,1994,0.28,6
+27,This Is How We Do It,Montell Jordan (1995),7,1995,0.24,8
+28,I'll Make Love To You,Boyz II Men (1995),14,1995,0.42,3
+29,Take A Bow,Madonna (1995),8,1995,0.27,5
+30,Fantasy,Mariah Carey (1996),8,1996,0.32,1
+31,Tha Crossroads,Bone Thugs-N-Harmony (1996),8,1996,0.4,2
+32,One Sweet Day,Mariah Carey & Boyz II Men (1996),16,1996,0.59,1
+33,Waterfalls,TLC (1996),7,1996,0.21,5
+34,Un-Break My Heart,Toni Braxton (1997),11,1997,0.26,7
+35,Macarena (Bayside Boys Mix),Los Del Rio (1997),14,1997,0.23,33
+36,Candle In The Wind 1997/Something About The Way You Look Tonight,Elton John (1998),14,1998,0.33,1
+37,Honey,Mariah Carey (1998),8,1998,0.4,1
+38,I'll Be Missing You,Puff Daddy & Faith Evans Featuring 112 (1998),11,1998,0.33,1
+39,The Boy Is Mine,Brandy & Monica (1998),13,1998,0.48,2
+40,Maria Maria,Santana Featuring The Product G&B (2000),10,2000,0.38,9
+41,Smooth,Santana Featuring Rob Thomas (2000),12,2000,0.21,13
+42,I'm A Believer,Smash Mouth (2001),7,2001,0.35,4
+43,Independent Women Part I,Destiny's Child (2001),11,2001,0.39,9
+44,Hot In Herre,Nelly (2002),7,2002,0.27,9
+45,Foolish,Ashanti (2002),10,2002,0.31,10
+46,Family Affair,Mary J. Blige (2002),9,2002,0.22,5
+47,Lose Yourself,Eminem (2003),12,2003,0.52,6
+48,Crazy In Love,Beyonce Featuring Jay Z (2003),8,2003,0.3,8
+49,In Da Club,50 Cent (2003),9,2003,0.3,9
+50,Dilemma,Nelly Featuring Kelly Rowland (2003),10,2003,0.34,6
+51,Hey Ya!,OutKast (2004),9,2004,0.28,9
+52,Baby Boy,Beyonce Featuring Sean Paul (2004),9,2004,0.31,8
+53,Yeah!,Usher Featuring Lil Jon & Ludacris (2004),12,2004,0.27,8
+54,Let Me Love You,Mario (2005),9,2005,0.25,11
+55,Goodies,Ciara Featuring Petey Pablo (2005),7,2005,0.18,12
+56,Candy Shop,50 Cent Featuring Olivia (2005),9,2005,0.39,5
+57,Gold Digger,Kanye West Featuring Jamie Foxx (2006),10,2006,0.26,8
+58,We Belong Together,Mariah Carey (2006),14,2006,0.33,8
+59,SexyBack,Justin Timberlake (2007),7,2007,0.19,8
+60,Umbrella,Rihanna Featuring Jay-Z (2007),7,2007,0.21,7
+61,My Love,Justin Timberlake Featuring T.I. (2007),9,2007,0.31,7
+62,Irreplaceable,Beyonce (2007),10,2007,0.33,7
+63,Rockstar,Nickelback (2008),8,2008,0.16,4
+64,I Kissed A Girl,Katy Perry (2008),7,2008,0.3,7
+65,Crank That (Soulja Boy),Soulja Boy Tell'em (2008),7,2008,0.22,8
+66,Low,Flo Rida Featuring T-Pain (2008),10,2008,0.25,9
+67,Whatever You Like,T.I. (2009),7,2009,0.23,3
+68,Boom Boom Pow,The Black Eyed Peas (2009),12,2009,0.36,4
+69,I Gotta Feeling,The Black Eyed Peas (2010),14,2010,0.25,3
+70,TiK ToK,Ke$ha (2010),9,2010,0.24,11
+71,Love The Way You Lie,Eminem Featuring Rihanna (2011),7,2011,0.24,4
+72,I Will Always Love You,Whitney Houston (2012),14,2012,0.48,3
+73,We Found Love,Rihanna Featuring Calvin Harris (2012),10,2012,0.24,6
+74,Somebody That I Used To Know,Gotye Featuring Kimbra (2013),8,2013,0.14,15
+75,One More Night,Maroon 5 (2013),11,2013,0.26,8
+76,Call Me Maybe,Carly Rae Jepsen (2013),9,2013,0.18,16
+77,Blurred Lines,Robin Thicke Featuring T.I. + Pharrell (2014),12,2014,0.25,8
+78,Billie Jean,Michael Jackson (2014),7,2014,0.28,7
+79,Fancy,Iggy Azalea Featuring Charli XCX (2014),7,2014,0.18,12
+80,Burn,Ellie Goulding (2014),8,2014,0.22,11
+81,Royals,Lorde (2014),9,2014,0.2,13
+82,Happy,Pharrell Williams (2014),10,2014,0.21,8
+83,Blank Space,Taylor Swift (2015),7,2015,0.19,3
+84,All About That Bass,Meghan Trainor (2015),8,2015,0.17,9
+85,Work,Rihanna Featuring Drake (2016),9,2016,0.25,4
+86,Hello,Adele (2016),12,2016,0.46,1
+87,Uptown Funk!,Mark Ronson Featuring Bruno Mars (2016),14,2016,0.25,8
+88,One Dance,Drake Featuring WizKid & Kyla (2016),10,2016,0.28,5
+89,See You Again,Wiz Khalifa Featuring Charlie Puth (2016),12,2016,0.23,5
+90,Closer,The Chainsmokers Featuring Halsey (2017),12,2017,0.23,3
+91,Black Beatles,Rae Sremmurd Featuring Gucci Mane (2017),7,2017,0.26,9
+92,Nice For What,Drake (2018),8,2018,0.32,1
+93,In My Feelings,Drake (2018),10,2018,0.45,2
+94,Despacito,Luis Fonsi & Daddy Yankee Featuring Justin Bieber (2018),16,2018,0.31,17
+95,God's Plan,Drake (2018),11,2018,0.31,1
+96,Shape Of You,Ed Sheeran (2018),12,2018,0.21,1
+97,7 Rings,Ariana Grande (2019),8,2019,0.38,1
+98,"Thank U, Next",Ariana Grande (2019),7,2019,0.25,1
+99,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus (2019),11,2019,0.73,5
