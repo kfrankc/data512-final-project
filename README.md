@@ -1,19 +1,40 @@
-# data512-final-project
-
-Final Project for UW DATA 512
+# Music Through The Ages: Billboard Top 100 Analysis
 
 ## Abstract
 
-Throughout history, music has consistently been used as one of the cultural indicators of society, in addition to literature, art, and film. I would like to analyze the Billboard charts from the 60s until today, and find patterns in listening patterns, song preferences, and most importantly, genre changes. This type of analysis would be interesting to historians, ethnographers, anthropologists, music enthusiasts, and even music managers, since it provides a data-driven approach to understanding how music popularity evolves as society evolves, and vice versa.
+I analyzed Billboard Hot 100 Weekly Charts from 1958 to 2019 to show the relationship between popularity vs. relevance, velocity climb to #1 vs. #1 streak, as well as Billboard peak position vs. corresponding YouTube music video views. I show that songs from the 2010s are not outperforming the songs from the past, and confirmed that YouTube views do have correlations with higher Billboard peak positions, but noted that is already a confounding factor.
+
+Refer to [analysis.ipynb](https://tinyurl.com/kfrankc-512-analysis) for the comprehensive analysis, code, and discussion. Please note that I am using [NBViewer](https://nbviewer.jupyter.org/) in order to render the interactive visualizations I built using [Plotly](https://plot.ly/python/).
+
+This project was completed as part of the final project for DATA 512 (Human-Centered Data Science), University of Washington, Fall 2019.
+
+## Reproducibility
+
+This work is intended to be fully reproducible. Anyone should be able to run my code and produce the exact results as I have presented here. To try it out for yourself, please clone this repository:
+
+`git clone https://github.com/kfrankc/data512-final-project`
+
+The code repository has the following dependencies:
+
+* [Python 3.6.1](https://www.python.org/downloads/release/python-361/)
+* [Jupyter Notebook](https://jupyter.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Plotly](https://plot.ly/python/)
+
+After installing dependencies, run command `jupyter notebook`, which should bring you to a localhost environment where you can click on the `analysis/` folder and click on `analysis.ipynb`.
+
+Feel free to contact me at kfrankc [at] uw edu  if you have any questions about this analysis.
 
 ## Relevant Links
 
-[Pandas Documentation]()
+[Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 
-[Billboard Data]()
+[Plotly Documentation](https://plot.ly/python/)
 
-[YouTube Data]()
+[Billboard Data](https://data.world/kcmillersean/billboard-hot-100-1958-2017)
 
-[Course Wiki]()
+[YouTube Data](https://www.kaggle.com/datasnaek/youtube-new)
 
-## License
+[Course Wiki](https://wiki.communitydata.science/Human_Centered_Data_Science_(Fall_2019))
+
+[License](https://github.com/kfrankc/data512-final-project/blob/master/LICENSE)
