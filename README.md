@@ -21,9 +21,13 @@ The code repository has the following dependencies:
 * [Pandas](https://pandas.pydata.org/)
 * [Plotly](https://plot.ly/python/)
 
-After installing dependencies, run command `jupyter notebook`, which should bring you to a localhost environment where you can click on the `analysis/` folder and click on `analysis.ipynb`.
+After installing dependencies, run command `jupyter notebook`, which should bring you to a localhost environment where you can click on the `analysis/` folder and click on `analysis.ipynb`, which is the Jupyter notebook you can follow for both my analysis and code.
 
 Feel free to contact me at kfrankc [at] uw edu  if you have any questions about this analysis.
+
+## License for the Data
+
+Both the Billboards and YouTube data are shared with [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/). The links to the datasets websites can be found below.
 
 ## Relevant Links
 
@@ -37,4 +41,4 @@ Feel free to contact me at kfrankc [at] uw edu  if you have any questions about 
 
 [Course Wiki](https://wiki.communitydata.science/Human_Centered_Data_Science_(Fall_2019))
 
-[License](https://github.com/kfrankc/data512-final-project/blob/master/LICENSE)
+[Repository License](https://github.com/kfrankc/data512-final-project/blob/master/LICENSE)
