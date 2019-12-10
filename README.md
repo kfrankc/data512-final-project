@@ -21,13 +21,13 @@ The code repository has the following dependencies:
 * [Pandas](https://pandas.pydata.org/)
 * [Plotly](https://plot.ly/python/)
 
-After installing dependencies, run command `jupyter notebook`, which should bring you to a localhost environment where you can click on the `analysis/` folder and click on `analysis.ipynb`, which is the Jupyter notebook you can follow for both my analysis and code.
+After installing dependencies, run command `jupyter notebook`, which should bring you to a localhost environment where you can click on the `analysis/` folder and click on `analysis.ipynb`, which is the Jupyter notebook you can follow for both my analysis and code. Ignore the `tmp_data` folder, as it contains all the temporary `.csv` files I generate throughout the notebook.
 
 Feel free to contact me at kfrankc [at] uw edu  if you have any questions about this analysis.
 
 ## License for the Data
 
-Both the Billboards and YouTube data are shared with [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/). The links to the datasets websites can be found below.
+Both the Billboards and YouTube data are shared with [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/). The links to the datasets websites can be found below. I have also added the two datasets in the `raw_data` folder; they are named `hot_100.csv` and `yt_us_videos.csv` respectively.
 
 ## Relevant Links
 
